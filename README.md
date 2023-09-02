@@ -1,4 +1,4 @@
-Student Result Analysis Project
+# Student Result Analysis Project
 
 Overview
 The Student Result Analysis Project is a Python-based data analysis project that allows users to analyze and visualize student results data. This project helps educators and administrators gain insights into student performance and make data-driven decisions to improve educational outcomes.
